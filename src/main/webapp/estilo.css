@@ -1,0 +1,11 @@
+div{ border-color:  blue;
+		border:2px;
+		padding-left: 20cm;
+} 
+
+button {
+	border-radius: 8px;
+	border-width:2px;
+	margin-left: 16px;
+	width: 50px;
+}
